@@ -665,13 +665,72 @@ Always obtain proper authorization before testing any target.
 
 ---
 
-# 👩‍💻 Author
+# 👥 Contributors
 
-**Pranoti Ashok Munjankar**
+The VAPT Automation Framework was developed collaboratively by a dedicated team responsible for frontend development, backend engineering, and quality assurance.
 
-Cyber Security Researcher | Security Automation Developer
+## 👨‍💻 Achal Khobragade
+
+### Frontend Developer
+
+Responsibilities:
+
+* Designed and developed the user-facing components of the framework.
+* Built terminal interface layouts and user interaction workflows.
+* Improved usability, navigation, and overall user experience.
+
+GitHub:https://GitHub.com/achalk20
+---
+
+## 👩‍💻 Pranoti Ashok Munjankar
+
+### Backend Developer & Project Lead
+
+Responsibilities:
+
+* Designed the overall architecture of the VAPT Automation Framework.
+* Developed the automation engine and workflow management system.
+* Implemented reconnaissance pipelines and tool integration.
+* Developed dependency checking, output management, logging, monitoring, and reporting modules.
+* Built cross-platform support for Windows, Linux, and macOS.
+* Managed project planning, framework integration, and deployment.
 
 GitHub: https://github.com/pranoti711
+
+---
+
+## 👨‍💻 Rakshad Khanke
+
+### Testing & Quality Assurance Engineer
+
+Responsibilities:
+
+* Performed functional and integration testing.
+* Verified tool execution workflows and pipeline reliability.
+* Identified bugs, compatibility issues, and performance bottlenecks.
+* Conducted quality assurance and framework validation.
+* Ensured framework stability across supported operating systems.
+
+---
+
+## 🤝 Team Contribution Summary
+
+| Team Member             | Role                             | Contribution Area                                           |
+| ----------------------- | -------------------------------- | ----------------------------------------------------------- |
+| Achal Khobragade        | Frontend Developer               | User Interface, Frontend Components                         |
+| Pranoti Ashok Munjankar | Backend Developer & Project Lead | Framework Architecture, Automation Engine, Tool Integration |
+| Rakshad Khanke          | Testing & QA Engineer            | Testing, Validation                                         |
+
+---
+
+## 🎓 Academic Project Information
+
+This project was developed as a collaborative cybersecurity and software engineering initiative focused on automating reconnaissance workflows used during Vulnerability Assessment and Penetration Testing (VAPT).
+
+The framework combines multiple open-source reconnaissance tools into a unified, automated, and scalable platform capable of operating across Windows, Linux, and macOS environments.
+
+The primary objective of the project is to simplify reconnaissance activities, reduce manual effort, improve efficiency, and provide structured outputs suitable for security assessments, research, and educational purposes.
+
 
 ---
 
@@ -697,10 +756,4 @@ Special thanks to:
 
 ---
 
-<div align="center">
 
-### ⭐ If you found this project useful, please consider giving it a star!
-
-**VAPT Automation Framework — Automating Reconnaissance for Faster Security Assessments.**
-
-</div>
