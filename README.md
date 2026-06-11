@@ -678,8 +678,9 @@ Responsibilities:
 * Designed and developed the user-facing components of the framework.
 * Built terminal interface layouts and user interaction workflows.
 * Improved usability, navigation, and overall user experience.
-
-GitHub:https://GitHub.com/achalk20
+  
+  GitHub: https://GitHub.com/achalk20
+  
 ---
 
 ## 👩‍💻 Pranoti Ashok Munjankar
@@ -695,7 +696,7 @@ Responsibilities:
 * Built cross-platform support for Windows, Linux, and macOS.
 * Managed project planning, framework integration, and deployment.
 
-GitHub: https://github.com/pranoti711
+  GitHub: https://github.com/pranoti711
 
 ---
 
