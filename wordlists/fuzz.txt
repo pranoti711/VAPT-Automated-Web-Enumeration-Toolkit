@@ -1,0 +1,14 @@
+FUZZ
+admin
+login
+api
+test
+dev
+backup
+config
+debug
+internal
+private
+old
+temp
+archive
