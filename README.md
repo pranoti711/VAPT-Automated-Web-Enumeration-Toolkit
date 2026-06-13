@@ -708,10 +708,10 @@ Responsibilities:
 
 * Performed functional and integration testing.
 * Verified tool execution workflows and pipeline reliability.
-* Identified bugs, compatibility issues, and performance bottlenecks.
 * Conducted quality assurance and framework validation.
 * Ensured framework stability across supported operating systems.
-
+  
+   GitHub: https://github.com/rakshadkhanke
 ---
 
 ## 🤝 Team Contribution Summary
@@ -741,20 +741,5 @@ This project is licensed under the MIT License.
 
 ---
 
-# 🙏 Acknowledgements
-
-Special thanks to:
-
-* ProjectDiscovery
-* OWASP Amass
-* Tomnomnom
-* FFUF
-* Dirsearch
-* Arjun
-* ParamSpider
-* M8sec Subscraper
-* Open Source Security Community
-
----
 
 
